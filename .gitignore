@@ -1,0 +1,30 @@
+# -----------------------------------------------------------------
+# R / RStudio artefacts (you usually do NOT want to version these)
+.Rhistory
+.RData
+.Rproj.user/
+.Rproj.user/*
+.Rproj.user/**
+
+# Packages installed locally (if you ever use renv / local library)
+.Rpackages/
+
+# Quarto build output – you’ll rebuild it on the server
+_site/
+.quarto/
+
+# OS‑specific junk
+.DS_Store
+Thumbs.db
+
+# Misc temporary files / logs
+*.log
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+
+# R markdown intermediate files (knitr caches, etc.)
+*_cache/
+*_files/
