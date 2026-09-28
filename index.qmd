@@ -1,12 +1,24 @@
 ---
-title: "luisasantiagowolf.github.io"
+title: "Luisa Santiago Wolf"
+image: 10_23_091.jpg
+resources: CV.pdf
+about: 
+  template: trestles
+  links: 
+    - menu: 
+      -
+      text: CV
+      icon: file-text
+      href: CV.pdf
+  id: ppc
 ---
 
-This is a Quarto website.
+:::{#ppc}
+I am a PhD candidate in Economics at the University of Cologne, a member of ECONtribute and C-SEB, and an associated member of DIW Berlin.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My main research fields are labor and education economics.
 
-```{r}
-1 + 1
-```
-git
+I have visited the Department of Economics at Uppsala University in Spring 2025, hosted by Peter Fredriksson.
+
+Email: santiago-wolf@wiso.uni-koeln.de
+:::
