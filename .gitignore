@@ -28,3 +28,4 @@ Thumbs.db
 # R markdown intermediate files (knitr caches, etc.)
 *_cache/
 *_files/
+/.quarto/
