@@ -14,7 +14,7 @@ about:
 ---
 
 :::{#ppc}
-I am a PhD candidate in Economics at the University of Cologne, a member of ECONtribute and C-SEB, and an associated member of DIW Berlin.
+I am a PhD candidate in Economics at the [University of Cologne](https://uni-koeln.de/en/), a member of [ECONtribute](https://econtribute.de/) and [C-SEB](https://c-seb.de/en/), and an associated member of [DIW Berlin](https://www.diw.de/en).
 
 My main research fields are labor and education economics.
 

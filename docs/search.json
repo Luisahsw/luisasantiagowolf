@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "The debate around higher education affirmative action concentrates much on the immediate beneficiaries and their prospects, disregarding that future beneficiaries might also react to the chance to pursue higher education. Effects might thus trickle-down to children who are still at school, which is a decisive stage for their future. I address this and study a higher education affirmative action law in Brazil that substantially increases public school students’ chance of university admission by reserving 50% of vacancies in each major at flagship federal universities. I conceptualize students’ expected effort reaction in a theoretical framework and empirically test its theoretical implications. Using administrative data from the São Paulo State School Performance Assessment System test and its rich background questionnaire, I apply a difference-in-discontinuity design and study how the affirmative action affects students’ effort, performance and aspirations. Results are in line with the theoretical predictions. I find that students increase their effort at the upper end of the effort distribution. The increased effort is reflected in improved Portuguese performance. Portuguese scores increase by 2% of a standard deviation. Effects are particularly strong for disadvantaged students. Additional heterogeneity analyses suggest that increased aspirations are the driving mechanism for students’ behavioral responses."
+  },
+  {
+    "objectID": "research.html#job-market-paper",
+    "href": "research.html#job-market-paper",
+    "title": "Research",
+    "section": "",
+    "text": "The debate around higher education affirmative action concentrates much on the immediate beneficiaries and their prospects, disregarding that future beneficiaries might also react to the chance to pursue higher education. Effects might thus trickle-down to children who are still at school, which is a decisive stage for their future. I address this and study a higher education affirmative action law in Brazil that substantially increases public school students’ chance of university admission by reserving 50% of vacancies in each major at flagship federal universities. I conceptualize students’ expected effort reaction in a theoretical framework and empirically test its theoretical implications. Using administrative data from the São Paulo State School Performance Assessment System test and its rich background questionnaire, I apply a difference-in-discontinuity design and study how the affirmative action affects students’ effort, performance and aspirations. Results are in line with the theoretical predictions. I find that students increase their effort at the upper end of the effort distribution. The increased effort is reflected in improved Portuguese performance. Portuguese scores increase by 2% of a standard deviation. Effects are particularly strong for disadvantaged students. Additional heterogeneity analyses suggest that increased aspirations are the driving mechanism for students’ behavioral responses."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nA missed opportunity? Labor demand and workforce diversity\n(joint with Anna Bindler, Barbara Boelmann, and Lena Janys)\n\n\nAbstract\n\nHow do labor demand shocks affect workforce diversity in the absence of targeted diversity policies? A conceptual framework illustrates the potential trade-off between the demographic and quality composition of a workforce when there is a positive labor demand shock. Exploiting the German reunification as a natural experiment, we analyze the academic labor market where nearly all social sciences professors in East Germany were replaced while STEM faculty remained largely unchanged. Using administrative data and a regional difference-in-difference design, we find increased dispersion in the institutional quality of hires, indicating that the new hires came from less select departments. At the same time, female representation did not increase despite qualified women in the pipeline. Instead, East German hiring patterns converged to those in West Germany in terms of gender composition. In simulations, we investigate implied losses: Under conservative assumptions, we show that, considering the pipeline of qualified applicants, the marginal female hire’s quality is approximately half a standard deviation higher than the marginal male hire’s quality.\nWorking paper"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nAI or human? Applicants’ decisions in discrimination settings\n(joint with Paula Scholz and David Stommel)\nDraft available upon request.\n\n\nSurfeel: Teaching Children to Verbalize Emotion\n(joint with Barbara Boelmann, Miguel Morin, and Anna Person)\nDraft available upon request."
   }
 ]
