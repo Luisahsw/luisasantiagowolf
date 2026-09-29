@@ -1,13 +1,8 @@
 ---
 title: "Luisa Santiago Wolf"
 image: 10_23_091.jpg
-resources: CV.pdf
 about: 
   template: trestles
-  links: 
-    - text: CV
-      icon: file-text
-      href: CV.pdf
   id: ppc
 ---
 
