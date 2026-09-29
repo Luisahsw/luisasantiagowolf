@@ -12,17 +12,23 @@ The debate on higher education affirmative action concentrates much on the immed
 ## Working Papers
 
 ### A missed opportunity? Labor demand and workforce diversity
+
 (joint with [Anna Bindler](https://sites.google.com/site/annabindler/research), [Barbara Boelmann](https://www.barbara-boelmann.de/home), and [Lena Janys](https://sites.google.com/site/janyslena/))
 
 <details>
-<summary>Abstract</summary>
-How do labor demand shocks affect workforce diversity in the absence of targeted diversity policies? A conceptual framework illustrates the potential trade-off between the demographic and quality composition of a workforce when there is a positive labor demand shock. Exploiting the German reunification as a natural experiment, we analyze the academic labor market where nearly all social sciences professors in East Germany were replaced while STEM faculty remained largely unchanged. Using administrative data and a regional difference-in-difference design, we find increased dispersion in the institutional quality of hires, indicating that the new hires came from less select departments. At the same time, female representation did not increase despite qualified women in the pipeline. Instead, East German hiring patterns converged to those in West Germany in terms of gender composition. In simulations, we investigate implied losses: Under conservative assumptions, we show that, considering the pipeline of qualified applicants, the marginal female hire’s quality is approximately half a standard deviation higher than the marginal male hire’s quality.
 
-<b>Working paper</b>: Available [here](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_420_2026.pdf)</details>
+<summary>Abstract</summary>
+
+How do labor demand shocks affect workforce diversity in the absence of targeted diversity policies? A conceptual framework illustrates the potential trade-off between the demographic and quality composition of a workforce when there is a positive labor demand shock. Exploiting the German reunification as a natural experiment, we analyze the academic labor market where nearly all social sciences professors in East Germany were replaced while STEM faculty remained largely unchanged. Using administrative data and a regional difference-in-difference design, we find increased dispersion in the institutional quality of hires, indicating that the new hires came from less select departments. At the same time, female representation did not increase despite qualified women in the pipeline. Instead, East German hiring patterns converged to those in West Germany in terms of gender composition. In simulations, we investigate implied losses: Under conservative assumptions, we show that, considering the pipeline of qualified applicants, the marginal female hire's quality is approximately half a standard deviation higher than the marginal male hire's quality.
+
+<b>Working paper</b>: Available [here](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_420_2026.pdf)
+
+</details>
 
 ## Work in progress
 
-### AI or human? Applicants’ decisions in discrimination settings
+### AI or human? Applicants' decisions in discrimination settings
+
 (joint with [Paula Scholz](https://paula-scholz.github.io/) and [David Stommel](https://cd.wiso.uni-koeln.de/en/team/strategic-management/david-stommel))
 
 Draft available upon request.
@@ -30,6 +36,7 @@ Draft available upon request.
 <b>Media Coverage</b>: Queb blog post available [here](https://www.queb.org/blog/ki-im-recruiting/)
 
 ### Surfeel: Teaching Children to Verbalize Emotion
+
 (joint with [Barbara Boelmann](https://www.barbara-boelmann.de/home), [Miguel Morin](https://www.columbia.edu/~mm3509/), and [Anna Person](https://sites.google.com/view/annaperson/home-page))
 
 Draft available upon request.

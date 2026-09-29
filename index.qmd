@@ -5,9 +5,7 @@ resources: CV.pdf
 about: 
   template: trestles
   links: 
-    - menu: 
-      -
-      text: CV
+    - text: CV
       icon: file-text
       href: CV.pdf
   id: ppc
