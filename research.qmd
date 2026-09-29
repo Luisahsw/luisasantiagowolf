@@ -18,7 +18,7 @@ The debate on higher education affirmative action concentrates much on the immed
 <summary>Abstract</summary>
 How do labor demand shocks affect workforce diversity in the absence of targeted diversity policies? A conceptual framework illustrates the potential trade-off between the demographic and quality composition of a workforce when there is a positive labor demand shock. Exploiting the German reunification as a natural experiment, we analyze the academic labor market where nearly all social sciences professors in East Germany were replaced while STEM faculty remained largely unchanged. Using administrative data and a regional difference-in-difference design, we find increased dispersion in the institutional quality of hires, indicating that the new hires came from less select departments. At the same time, female representation did not increase despite qualified women in the pipeline. Instead, East German hiring patterns converged to those in West Germany in terms of gender composition. In simulations, we investigate implied losses: Under conservative assumptions, we show that, considering the pipeline of qualified applicants, the marginal female hire’s quality is approximately half a standard deviation higher than the marginal male hire’s quality.
 
-Working paper: Available [here](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_420_2026.pdf)</details>
+<b>Working paper</b>: Available [here](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_420_2026.pdf)</details>
 
 ## Work in progress
 
@@ -27,7 +27,7 @@ Working paper: Available [here](https://www.econtribute.de/RePEc/ajk/ajkdps/ECON
 
 Draft available upon request.
 
-Media Coverage: Queb blog post available [here](https://www.queb.org/blog/ki-im-recruiting/)
+<b>Media Coverage</b>: Queb blog post available [here](https://www.queb.org/blog/ki-im-recruiting/)
 
 ### Surfeel: Teaching Children to Verbalize Emotion
 (joint with [Barbara Boelmann](https://www.barbara-boelmann.de/home), [Miguel Morin](https://www.columbia.edu/~mm3509/), and [Anna Person](https://sites.google.com/view/annaperson/home-page))
