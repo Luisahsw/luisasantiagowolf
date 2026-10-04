@@ -7,7 +7,7 @@ about:
   links: 
     - text: CV
       icon: file-text
-      href: "${site-url}/CV.pdf"
+      href: https://luisahsw.github.io/luisasantiagowolf/CV.pdf
   id: ppc
 ---
 
