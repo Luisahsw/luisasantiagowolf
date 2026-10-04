@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Luisa Santiago Wolf"
+  site-url:  https://luisahsw.github.io/luisasantiagowolf/
   navbar:
     left:
       - href: index.qmd
